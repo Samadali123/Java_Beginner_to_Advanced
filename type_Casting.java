@@ -11,8 +11,9 @@ public class type_Casting {
 
         //ex2 
         long x2  = 1000;
-         int y2 = (int)x2;
-        //  System.out.print(y2);
+         int y2 = (int)x2; // (int)
+        //  System.out.print(y2); // (long) (float)
+        
 
         // ex3 
         long x3 = 10000000000L; // L is used becoz numbers are  bydeafult integer form and in decimasl in theri double form in default form

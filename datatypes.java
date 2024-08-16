@@ -20,7 +20,7 @@ public class datatypes {
 //  decimals : float , double ,, decimals numbers mein default double hold krta hai 
 
 
-// non-primitive :  STRING, Array, Classes, Objects, Methods,Interfaces, etc
+// non-primitive :  STRING, Array,etc
 
 
     //   numbers 

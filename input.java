@@ -12,8 +12,8 @@ class  input {
         System.out.print(x+"amad");
          String str = scn.next();
          String str2 = scn.nextLine();
-         System.out.print(str);
-        
+         System.out.print(str); 
+    
 
          // for input int we use nextint(), for float nextfloat(), for  double we use nextdouble(), for long we use nextlong(), for single charcater we use  scn.next().charAt(0), for string we use scn.nextLine();
 
