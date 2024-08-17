@@ -6,7 +6,7 @@ public class pattern8 {
           Scanner scn = new Scanner(System.in);
           System.out.println("Enter a number of rows");
           int n = scn.nextInt();
-          System.err.println("Enter a number of columns");
+          System.out.println("Enter a number of columns");
           int m = scn.nextInt();
 
           for(int i=1; i<=n; i++) {
