@@ -1,7 +1,7 @@
 import java.util.*;
 public class Prime_number {
       public static void main(String[] args){
-        Scanner scn = new Scanner(System.in);
+
         System.out.println("Enter a number");
         int number = scn.nextInt();
         int count = 0;
