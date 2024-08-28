@@ -6,14 +6,14 @@ public class datatypes {
 // data types generally in 2 types primitive and non primitve 
 
 // Data Type	Size	Range	Example
-// byte	8-bit	-128 to 127	byte b = 100;
-// short	16-bit	-32,768 to 32,767	short s = 10000;
-// int	32-bit	-2^31 to 2^31-1	int i = 100000;
-// long	64-bit	-2^63 to 2^63-1	long l = 100000L;
-// float	32-bit	±1.4E-45 to ±3.4E38 (approx)	float f = 10.5f;
-// double	64-bit	±4.9E-324 to ±1.7E308 (approx)	double d = 10.5;
-// boolean	1-bit	true or false	boolean flag = true;
-// char	16-bit	'\u0000' to '\uffff' (0 to 65,535)	char c = 'A';
+// byte 2 byte	8-bit	-128 to 127	byte b = 100;
+// short 1 byte	16-bit	-32,768 to 32,767	short s = 10000;
+// int 4 byte	32-bit	-2^31 to 2^31-1	int i = 100000;
+// long 8 byte	64-bit	-2^63 to 2^63-1	long l = 100000L;
+// float 4 byte	32-bit	±1.4E-45 to ±3.4E38 (approx)	float f = 10.5f;
+// double 8 byte	64-bit	±4.9E-324 to ±1.7E308 (approx)	double d = 10.5;
+// boolean  1byte 	1-bit	true or false	boolean flag = true;
+// char 2 byte 	16-bit	'\u0000' to '\uffff' (0 to 65,535)	char c = 'A';
 
 // primitive :  Numbers, Char, Boolean,  etc, 
 //  numbers : Integers and decimals
@@ -21,7 +21,7 @@ public class datatypes {
 //  decimals : float , double ,, decimals numbers mein default double hold krta hai 
 
 
-// non-primitive :  STRING, Array,etc
+// non-primitive :  STRING, Array,objetcs, classes etc
 
 
     //   numbers 
